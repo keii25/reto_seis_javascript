@@ -1,0 +1,17 @@
+{
+  "name": "reto_6",
+  "version": "1.0.0",
+  "description": "Workshop 6 in Javascript - Bitakora",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "Kevin Martinez",
+  "license": "ISC",
+  "dependencies": {
+    "scanf": "^1.1.2"
+  }
+}
